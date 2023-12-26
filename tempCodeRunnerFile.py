@@ -1,0 +1,1 @@
+self.canvas.itemconfig(bg="
